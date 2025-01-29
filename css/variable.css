@@ -2,8 +2,9 @@
     --font-color-1: #eee;
     --color-gradient-1: #376e4014;
     --color-gradient-2: #071917;
-    --Rectangle-1: url(../storage/img/Rectangle.png)
-}
+    --Rectangle-1: url(../storage/img/Rectangle.png);
+    --Pagina-2: url(../storage/img/Pagina2.png);
+} 
 @font-face {
     font-family: "Montserrat-SemiBold";
     src: url(../storage/font/Montserrat/static/Montserrat-SemiBold.ttf)
