@@ -5,6 +5,10 @@
     box-sizing: border-box;
     
 }
+body{
+    background-color: var(--color-gradient-2);
+}
+
 /***** header *****/
 .header {
     display: flex;
@@ -43,6 +47,7 @@
 
 
 /****** main ******/
+
 .main {
 
 }
@@ -90,6 +95,106 @@
 .section__icon img{
     /* background: violet; */
 }
+
+/*********** Pagina 2 ************/
+
+.sec_pag2 {
+    height: 128svh;
+    background-color: var(--color-gradient-2);
+}
+
+.pagina2{
+    position: absolute;
+    display: flex;
+    left: 8svw;
+    top:100svh;
+    h1{
+        font-size: 3.5svw ;
+        color: white;
+        font-family: "Montserrat-SemiBold"; 
+    }
+}
+
+
+.img_pag2 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 70px;
+
+    img{
+        width: 96svw;
+        height: 115svh;
+    }
+  }
+
+
+
+/*********** Pagina 3 ************/
+
+.sec_pag3 {
+    height: 128svh;
+    background-color: var(--color-gradient-2);
+}
+
+.pagina3{
+    position: absolute;
+    display: flex;
+    left: 8svw;
+    top:100svh;
+    h1{
+        font-size: 3.5svw ;
+        color: white;
+        font-family: "Montserrat-SemiBold"; 
+    }
+}
+
+
+.img_pag3 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 70px;
+
+    img{
+        width: 96svw;
+        height: 115svh;
+    }
+  }
+
+  /*********** Pagina 4 ************/
+
+.sec_pag4 {
+    height: 128svh;
+    background-color: var(--color-gradient-2);
+}
+
+.pagina4{
+    position: absolute;
+    display: flex;
+    left: 8svw;
+    top:100svh;
+    h1{
+        font-size: 3.5svw ;
+        color: white;
+        font-family: "Montserrat-SemiBold"; 
+    }
+}
+
+
+.img_pag4 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 70px;
+
+    img{
+        width: 96svw;
+        height: 115svh;
+    }
+  }
+
+
 
 /********* version movil *********/ 
 
